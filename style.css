@@ -4,19 +4,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
-}/* أنماط الوضع الفاتح */
+}
 body {
     font-family: "Tajawal", sans-serif;
     background-color: #f5f5f5;
     color: black;
 }
 
-/* أنماط الوضع المظلم */
-body.dark-mode {
-    background-color: #121212;
-    color: white;
-}
+
 
 .header {
     background-color: #3498db;
